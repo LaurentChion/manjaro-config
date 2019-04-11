@@ -1,0 +1,8 @@
+robbyrussell/oh-my-zsh path:lib
+robbyrussell/oh-my-zsh path:themes/agnoster.zsh-theme
+
+djui/alias-tips
+zsh-users/zsh-completions
+
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
