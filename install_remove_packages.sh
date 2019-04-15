@@ -10,6 +10,13 @@ curl -sL git.io/antibody | sh -s
 # Install vscodium
 yay vscodium
 
+# Install rbenv
+yay rbenv
+yay ruby-build
+
+# Install telegram
+sudo pacman -Syu telegram-desktop
+
 # Install brave browser
 yay brave
 
