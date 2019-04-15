@@ -1,6 +1,9 @@
 # Install zsh
 sudo pacman -Syu zsh
 
+# Install zsh
+sudo pacman -Syu z
+
 # Install antibody (zsh package manager)
 curl -sL git.io/antibody | sh -s
 
