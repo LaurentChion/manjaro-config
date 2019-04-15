@@ -1,7 +1,7 @@
 Xft.dpi:       96
 Xft.antialias: true
 Xft.hinting:   true
-Xft.rgba:      rgba
+Xft.rgba:      rgb
 Xft.autohint:  false
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
@@ -57,7 +57,7 @@ XTerm*selectToClipboard: true
 Xcursor.theme: xcursor-breeze
 Xcursor.size:                     0
 
-URxvt.font:                       xft:SauceCodePro Nerd Font Mono:pixelsize=10:antialias=truehinting=true:minspace=false
+URxvt.font:                       xft:SauceCodePro\ Nerd\ Font\ Mono:pixelsize=14:antialias=truehinting=true:minspace=false
 URxvt*letterSpace: 1
 
 ! alternative font settings with 'terminus':
