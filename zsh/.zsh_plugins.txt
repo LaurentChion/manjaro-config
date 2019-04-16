@@ -1,5 +1,5 @@
 robbyrussell/oh-my-zsh path:lib
-robbyrussell/oh-my-zsh path:themes/agnoster.zsh-theme
+LaurentChion/oh-my-agnoster branch:dev
 
 robbyrussell/oh-my-zsh path:plugins/git/git.plugin.zsh
 robbyrussell/oh-my-zsh path:plugins/z/z.plugin.zsh

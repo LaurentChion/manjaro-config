@@ -17,7 +17,8 @@ source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-r
 source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/lib/termsupport.zsh
 source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/lib/theme-and-appearance.zsh
 fpath+=( /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/lib )
-source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/themes/agnoster.zsh-theme
+source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-LaurentChion-SLASH-oh-my-agnoster/prompt.sh
+fpath+=( /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-LaurentChion-SLASH-oh-my-agnoster )
 source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/plugins/git/git.plugin.zsh
 source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/plugins/z/z.plugin.zsh
 source /home/lambda/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-djui-SLASH-alias-tips/alias-tips.plugin.zsh
