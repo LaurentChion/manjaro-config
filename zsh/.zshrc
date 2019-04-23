@@ -9,3 +9,6 @@ alias code="vscodium"
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
+
+# Rustup
+export PATH="$HOME/.cargo/bin:$PATH"

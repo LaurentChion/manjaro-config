@@ -14,6 +14,9 @@ yay vscodium
 yay rbenv
 yay ruby-build
 
+# Install Rust
+curl https://sh.rustup.rs -sSf | sh
+
 # Install telegram
 sudo pacman -Syu telegram-desktop
 
