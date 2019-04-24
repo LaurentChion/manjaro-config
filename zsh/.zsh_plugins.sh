@@ -27,4 +27,3 @@ source /home/laurent/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-
 fpath+=( /home/laurent/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-zsh-users-SLASH-zsh-completions )
 source /home/laurent/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-zsh-users-SLASH-zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 fpath+=( /home/laurent/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-zsh-users-SLASH-zsh-syntax-highlighting )
-source /home/laurent/.cache/antibody/https-COLON--SLASH--SLASH-github.com-SLASH-robbyrussell-SLASH-oh-my-zsh/plugins/history-substring-search/history-substring-search.plugin.zsh

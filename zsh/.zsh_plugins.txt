@@ -8,4 +8,3 @@ djui/alias-tips
 zsh-users/zsh-completions
 
 zsh-users/zsh-syntax-highlighting
-robbyrussell/oh-my-zsh path:plugins/history-substring-search/history-substring-search.plugin.zsh
