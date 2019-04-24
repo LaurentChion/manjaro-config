@@ -1,3 +1,4 @@
+robbyrussell/oh-my-zsh path:lib
 bhilburn/powerlevel9k
 
 robbyrussell/oh-my-zsh path:plugins/git/git.plugin.zsh
@@ -5,7 +6,6 @@ robbyrussell/oh-my-zsh path:plugins/z/z.plugin.zsh
 djui/alias-tips
 
 zsh-users/zsh-completions
-zsh-users/zsh-autosuggestions
 
 zsh-users/zsh-syntax-highlighting
-zsh-users/zsh-history-substring-search
+robbyrussell/oh-my-zsh path:plugins/history-substring-search/history-substring-search.plugin.zsh
