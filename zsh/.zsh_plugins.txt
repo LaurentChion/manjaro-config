@@ -1,12 +1,11 @@
 robbyrussell/oh-my-zsh path:lib
-LaurentChion/oh-my-agnoster branch:dev
+bhilburn/powerlevel9k
 
 robbyrussell/oh-my-zsh path:plugins/git/git.plugin.zsh
 robbyrussell/oh-my-zsh path:plugins/z/z.plugin.zsh
+robbyrussell/oh-my-zsh path:plugins/docker-compose/docker-compose.plugin.zsh
 djui/alias-tips
 
 zsh-users/zsh-completions
-zsh-users/zsh-autosuggestions
 
 zsh-users/zsh-syntax-highlighting
-zsh-users/zsh-history-substring-search
